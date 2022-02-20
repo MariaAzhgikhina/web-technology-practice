@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Roboto;
+    background: #fffded;
+}
+.header-title{
+    height: 155px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-image {
+    height: 700px;
+
+}
+.join {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.join-title{
+    margin-bottom: 34px;
+}
+
+
+

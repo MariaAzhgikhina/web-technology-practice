@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Roboto;
+    background: #fffded;
+}
+.container{
+    margin: 0 150px;
+}
+.main-title{
+    padding: 55px 0;
+}
+.block {
+    display: flex;
+    margin-bottom: 55px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+.block-text {
+    margin: 0 55px;
+}
+.title {
+    margin-bottom: 55px;
+}
+.join-title{
+    margin-bottom: 34px;
+}
+.join-text{
+    margin-bottom: 55px;
+}
+
+
+
